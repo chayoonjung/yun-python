@@ -1,0 +1,3 @@
+기준_년_분기_코드,상권_코드,상권_변화_지표,상권_변화_지표_명,운영_영업_개월_평균,폐업_영업_개월_평균,서울_운영_영업_개월_평균,서울_폐업_영업_개월_평균
+STDR_YQ_CD,TRDAR_CD,TRDAR_CHNGE_IX,TRDAR_CHNGE_IX_NM,OPR_SALE_MT_AVRG,CLS_SALE_MT_AVRG,SU_OPR_SALE_MT_AVRG,SU_CLS_SALE_MT_AVRG
+varchar2(10),varchar2(15),varchar2(5),varchar2(10),number,number,number,number

@@ -1,0 +1,19 @@
+no,f_name,f_type,table_name
+1,상권-추정유동인구,csv,trd_pred_flpop
+2,상권-집객시설,csv,trd_viatr_fclty
+3,상권배후지-추정유동인구,csv,trdhl_pred_flpop
+4,상권배후지-집객시설,csv,trdhl_viatr_fclty
+5,상권배후지-상주인구,csv,trdhl_repop
+6,상권_상주인구,csv,trd_repop
+7,상권배후지-아파트,csv,trdhl_apt
+8,상권배후지-점포,csv,trdhl_stor
+9,상권-상권변화지표,csv,trd_change_ix
+10,행정동별 상권변화지표,csv,adstrd_change_ix
+11,상권-추정매출,csv,trd_pred_selng
+12,상권-직장인구,csv,trd_wrdpop
+13,상권배후지-소득소비,csv,trdhl_income_expndtr
+14,상권배후지-직장인구,csv,trdhl_wrdpop
+15,자치구별 상권변화지표,csv,br_change_ix
+16,상권-아파트,csv,trd_apt
+17,상권영역,loc,trd_range
+18,상권-점포,csv,trd_stor

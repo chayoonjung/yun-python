@@ -1,0 +1,3 @@
+기준_년_분기_코드,상권_코드,hl_월_평균_소득_금액,hl_소득_구간_코드,hl_지출_총금액,hl_식료품_지출_총금액,hl_의류_신발_지출_총금액,hl_생활용품_지출_총금액,hl_의료비_지출_총금액,hl_교통_지출_총금액,hl_여가_지출_총금액,hl_문화_지출_총금액,hl_교육_지출_총금액,hl_유흥_지출_총금액
+STDR_YQ_CD,TRDAR_CD,hl_MT_AVRG_INCOME_AMT,hl_INCOME_SCTN_CD,hl_EXPNDTR_TOTAMT,hl_FDSTFFS_EXPNDTR_TOTAMT,hl_CLTHS_FTWR_EXPNDTR_TOTAMT,hl_LVSPL_EXPNDTR_TOTAMT,hl_MCP_EXPNDTR_TOTAMT,hl_TRNSPORT_EXPNDTR_TOTAMT,hl_LSR_EXPNDTR_TOTAMT,hl_CLTUR_EXPNDTR_TOTAMT,hl_EDC_EXPNDTR_TOTAMT,hl_PLESR_EXPNDTR_TOTAMT
+varchar2(10),varchar2(15),number,varchar2(2),number,number,number,number,number,number,number,number,number,number

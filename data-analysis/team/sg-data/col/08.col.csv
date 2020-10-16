@@ -1,0 +1,3 @@
+기준_년_분기_코드,상권_코드,서비스_업종_코드,서비스_업종_코드_명,hl_점포_수,hl_유사_업종_점포_수,hl_개업_율,hl_개업_점포_수,hl_폐업_률,hl_폐업_점포_수,hl_프랜차이즈_점포_수
+STDR_YQ_CD,TRDAR_CD,SVC_INDUTY_CD,SVC_INDUTY_CD_NM,hl_STOR_CO,hl_SIMILR_INDUTY_STOR_CO,hl_OPBIZ_RT,hl_OPBIZ_STOR_CO,hl_CLSBIZ_RT,hl_CLSBIZ_STOR_CO,hl_FRC_STOR_CO
+varchar2(10),varchar2(15),varchar2(20),varchar2(30),number,number,number,number,number,number,number
