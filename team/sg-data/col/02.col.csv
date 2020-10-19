@@ -1,0 +1,3 @@
+기준_년_분기_코드,상권_코드,집객시설_수,관공서_수,은행_수,종합병원_수,일반_병원_수,약국_수,유치원_수,초등학교_수,중학교_수,고등학교_수,대학교_수,백화점_수,슈퍼마켓_수,극장_수,숙박_시설_수,공항_수,철도_역_수,버스_터미널_수,지하철_역_수,버스_정거장_수
+STDR_YQ_CD,TRDAR_CD,VIATR_FCLTY_CO,PBLOFC_CO,BANK_CO,GEHSPT_CO,GNRL_HSPTL_CO,PARMACY_CO,KNDRGR_CO,ELESCH_CO,MSKUL_CO,HGSCHL_CO,UNIV_CO,DRTS_CO,SUPMK_CO,THEAT_CO,STAYNG_FCLTY_CO,ARPRT_CO,RLROAD_STATN_CO,BUS_TRMINL_CO,SUBWAY_STATN_CO,BUS_STTN_CO
+varchar2(10),varchar2(15),number,number,number,number,number,number,number,number,number,number,number,number,number,number,number,number,number,number,number,number
